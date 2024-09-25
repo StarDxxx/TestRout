@@ -4,7 +4,7 @@ import { NextResponse } from 'next/server';
 export async function GET() {
   const feed = new Feed({
     title: "每日天气预报s51",
-    description: "feedId:61028264807309312+userId:55059127996282880",
+    description: "feedId:61775665630020608+userId:61775558726645760",
     id: "http://example.com/",
     link: "http://example.com/",
     language: "zh-CN",
