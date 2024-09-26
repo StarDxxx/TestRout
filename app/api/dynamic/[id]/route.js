@@ -5,19 +5,19 @@ import { NextResponse } from 'next/server';
 const routeConfig = {
   s72: {
     title: "每日天气预报s72",
-    description: "feedId:61804665727140864+userId:61804520898494464",
+    description: "feedId:62119258475656192+userId:62118866068020224",
   },
   s73: {
     title: "每日天气预报s73",
-    description: "feedId:61791876405559296+userId:61791741840908288",
+    description: "feedId:62120717702241280+userId:62120580196480000",
   },
   s74: {
     title: "每日天气预报s74",
-    description: "feedId:61791876405559296+userId:61791741840908288",
+    description: "feedId:62121528620588032+userId:62134013343236096",
   },
   s75: {
     title: "每日天气预报s75",
-    description: "feedId:61791876405559296+userId:61791741840908288",
+    description: "feedId:62135361574090752+userId:62135155742816256",
   },
   s76: {
     title: "每日天气预报s76",
